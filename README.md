@@ -90,3 +90,5 @@ Try it by running:
 
 ```bash
 streamlit run Streamlit_app.py
+
+⚠️ Note: .pkl files are not included in this repository due to GitHub file restrictions. Please retrain the model using the provided notebook.
